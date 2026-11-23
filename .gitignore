@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Środowiska wirtualne
+.venv/
+venv/
+env/
+
+# Budowanie i paczki
+build/
+dist/
+*.zip
+
+# IDE i system
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Dane wrażliwe
+.env
+*.key
